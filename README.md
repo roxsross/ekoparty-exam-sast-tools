@@ -35,4 +35,5 @@ If everythings goes alright, We will include all the vulnerabilities listed belo
 #
 Developed by : twitter.com/@RomeoKarki9
              : https://github.com/BitByteButter
+             : https://www.youtube.com/channel/UCObYFLII6Oh4stffF8deFwg
              
