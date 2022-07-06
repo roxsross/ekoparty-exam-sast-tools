@@ -30,6 +30,19 @@ If everythings goes alright, We will include all the vulnerabilities listed belo
 - Trust boundary violations
 
 
+### opciones de tools
+
+- https://github.com/docker/build-push-action
+- https://github.com/ZupIT/horusec
+- https://github.com/trufflesecurity/trufflehog
+- https://github.com/zricethezav/gitleaks
+- https://github.com/aquasecurity/tfsec
+- https://github.com/Checkmarx/kics
+- https://github.com/SonarSource/sonarcloud-github-action
+-  https://github.com/aquasecurity/trivy
+- https://github.com/snyk/
+
+
 #
 - Developed by : twitter.com/@roxsross
              : https://github.com/roxsross
